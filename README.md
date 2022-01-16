@@ -7,11 +7,7 @@ if you like what i do, maybe a coffee/tea ? 🥺👉👈
 
 <a href="https://bit.ly/33I0xRy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="TXFHGM3K6DSAQ" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_FR/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TXFHGM3K6DSAQ)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maaamie&show_icons=true&theme=gotham" alt="MaAamie" />
 
