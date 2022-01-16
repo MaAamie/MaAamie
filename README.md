@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=MaAamie.id&left_color=green&right_color=red)
+                
 
 if you like what i do, maybe a coffee/tea ? 🥺👉👈
 
