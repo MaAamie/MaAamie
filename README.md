@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maaamie.visitor-badge&left_text=My%20Page%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maaamie.visitor-badge&left_text=Welcome)
                 
 
 if you like what i do, maybe a coffee/tea ? 🥺👉👈
