@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=MaAamie.id&left_color=green&right_color=red)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maaamie.visitor-badge&left_color=blue&right_color=greyleft_text=Hello%20Visitors)
                 
 
 if you like what i do, maybe a coffee/tea ? 🥺👉👈
