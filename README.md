@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+
 
 if you like what i do, maybe a coffee/tea ? 🥺👉👈
 
