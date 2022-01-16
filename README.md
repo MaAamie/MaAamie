@@ -3,7 +3,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maaamie.visitor-badge&left_text=Welcome)
                 
 
-if you like what i do, maybe a coffee/tea ? 🥺👉👈
+if you like what i do, maybe a coffee ? 🥺👉👈
 
 <a href="https://bit.ly/33I0xRy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
