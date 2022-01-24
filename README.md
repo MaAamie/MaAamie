@@ -1,7 +1,18 @@
-### Hi there 👋
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maaamie.visitor-badge&left_text=Welcome)
+### Hi there 👋, ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maaamie.visitor-badge&left_text=Welcome)
                 
+I'm just a guy who just learned Python a few days ago....
+Anyway, what more do you want me to tell you?
+
+I just started 3D printing too, but I can't do more... 😩, it keeps my wife awake....
+
+And also, I automate the house thanks to "Home Assistant".
+
+And I work in IT....
+
+In short, what else to say? well you don't care...
+
+In short, all that to tell you that.
+
 
 if you like what i do, maybe a coffee ? 🥺👉👈
 
